@@ -14,6 +14,8 @@ Currently, two official plugins are available:
 
 # Features
 **Summary** - With the help of the generated transcript, summarization has been provided using gemini-pro.
+
 **doubts**  - Considering the age and transcript as input to the gemini pro model making doubt clarification an enjoyable feature to the people of any age group.
+
 **quiz**    - A quiz will be generated with the help of the transcripts and the user will be able to choose the answers and keep track of their scores.
 
