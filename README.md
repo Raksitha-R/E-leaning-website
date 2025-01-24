@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 - Based on your chosen domain a road map will be generated with help of gemini-pro model.
 - The road map topic is passed as a query to youtube data api.
 - It fetches 10 videos for all the topics, among those 10 videos, the video with more like count will be appended with topic, url and transcript to the json file.
+- The json file is used for displaying the videos and also in all the features.
 
 # Features
 **Summary** - With the help of the generated transcript, summarization has been provided using gemini-pro.
