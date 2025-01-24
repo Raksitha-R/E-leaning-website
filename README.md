@@ -20,3 +20,8 @@ Currently, two official plugins are available:
 
 **quiz**    - A quiz will be generated with the help of the transcripts and the user will be able to choose the answers and keep track of their scores.
 
+![image](https://github.com/user-attachments/assets/a3ba338a-06e3-41a3-b83e-c17530e73451)
+![image](https://github.com/user-attachments/assets/88ecc82b-bb68-4c11-be36-82f409ba3e4b)
+![image](https://github.com/user-attachments/assets/4eb86e27-8c6f-4592-9219-d65f8620a602)
+![image](https://github.com/user-attachments/assets/16613042-34af-40ba-909f-d52a92ee3678)
+![image](https://github.com/user-attachments/assets/95fe991f-9512-4271-b5f3-71b2618e2d8e)
